@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ARBoard_iOS"
-  spec.version      = "1.1.1"
+  spec.version      = "1.2.0"
   spec.summary      = "ARBoard_iOS."
 
   # This description is used to generate tags and improve search results.
@@ -139,5 +139,6 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
+  spec.dependency "dsBridge"
 
 end

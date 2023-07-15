@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ARBoard_iOS"
-  spec.version      = "1.2.0"
+  spec.version      = "1.2.1"
   spec.summary      = "ARBoard_iOS."
 
   # This description is used to generate tags and improve search results.
